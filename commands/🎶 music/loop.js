@@ -1,5 +1,4 @@
 const Discord = require('discord.js');
-const language = require('../../utils/language')
 
 module.exports = {
     name: 'loop',

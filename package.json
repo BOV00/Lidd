@@ -1,0 +1,30 @@
+{
+  "name": "lidd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOV00/Lidd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOV00/Lidd/issues"
+  },
+  "homepage": "https://github.com/BOV00/Lidd#readme",
+  "dependencies": {
+    "@discord-player/downloader": "^3.0.1",
+    "@discord-player/extractor": "^3.0.2",
+    "ascii-table": "^0.0.9",
+    "discord-player": "^4.0.9",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.9.1"
+  }
+}
